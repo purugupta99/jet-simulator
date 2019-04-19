@@ -39,11 +39,11 @@
 * To win the game, mark all the checkpoints clear.
 
 # CAMERA VIEWS
-* Plane View
-* Top View
-* Tower View
-* Follow-Cam View
-* Helicopter View
+* Plane View -> Num 1
+* Top View -> Num 2
+* Tower View -> Num 3
+* Follow-Cam View -> Num 4
+* Helicopter View -> Num 5
 
 # POINT SCHEME
 * Fuel Barrel -> 10
